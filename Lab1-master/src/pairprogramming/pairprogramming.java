@@ -14,7 +14,7 @@ public class pairprogramming {
      */
     public static void main(final String[] args) {
         // TODO Auto-generated method stub
-        pairprogramming ipt = new pairprogramming();
+        pairprogramming ipt = new pairprogramming();//对之前修改的地方，本组认可
         Scanner temp = new Scanner(System.in);
         String test = temp.next();
         String test1 = test;
